@@ -9,8 +9,6 @@ javascript:(function() {
 
    */
 
-  var globalVersion = "v1.0 - NSF_Zebras" ;
-
   function main() { 
     
     jQuery( "div#siteTable p.title a:not(span a)" ).each( function( index, item ) { 
